@@ -3,10 +3,11 @@
 # include <iomanip>
 # include <cmath>
 # include <ctime>
+# include <cstring>
 
 using namespace std;
 
-# include "spline.H"
+# include "spline.h"
 
 //****************************************************************************80
 

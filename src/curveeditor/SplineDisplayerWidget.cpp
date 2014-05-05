@@ -4,7 +4,7 @@
 #if defined(__APPLE_CC__) || defined(_APPLE_CC)
 #include <OpenGL/glu.h>
 #else
-#include <gl/glu.h>
+#include <GL/glu.h>
 #endif
 
 #include <iostream>
